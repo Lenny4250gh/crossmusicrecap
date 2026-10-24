@@ -5,6 +5,10 @@ Your music recap, from any platform.
 🔗 **Try it live:** https://crossmusicrecap.vercel.app/
 
 <p align="center">
+  <img src="screenshots/landing-hero.png" width="760" alt="CrossMusicRecap landing page">
+</p>
+
+<p align="center">
   <img src="screenshots/hero.png" width="200" alt="Top artist reveal with dynamic background">
   <img src="screenshots/top-platform.png" width="200" alt="Top platform reveal">
   <img src="screenshots/numbers.png" width="200" alt="Big count-up numbers slide">
@@ -19,23 +23,51 @@ Your music recap, from any platform.
 - **Dynamic backgrounds**: colors extracted from album covers and artist photos
 - **Monthly Top 5 race**: an animated race showing how your favorite artists change month by month
 - **Story-style slides**: top platform, top artist, big count-up numbers and more
+- **Dashboard**: explore your listening data in detail
 - **Customizable recap**: choose which contents to show and in which format
+- **Step-by-step guides**: how to get your data from each platform
 - **Mobile friendly**: a settings wizard designed for phones
 
 ## Screenshots
 
+### Landing page
+<p align="center">
+  <img src="screenshots/landing-features.png" width="760" alt="Landing page features">
+</p>
+
+### Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.png" width="760" alt="Dashboard overview">
+</p>
+<p align="center">
+  <img src="screenshots/dashboard2.png" width="760" alt="Dashboard overview 2">
+</p>
+
+### Guides
+<p align="center">
+  <img src="screenshots/guide-import.png" width="760" alt="Guide: importing your data">
+</p>
+
+### Customize your recap
 <p align="center">
   <img src="screenshots/settings-hub.png" width="220" alt="Settings hub">
   <img src="screenshots/settings-content.png" width="220" alt="Content settings">
   <img src="screenshots/settings-format.png" width="220" alt="Format settings">
 </p>
 
+### On mobile
+<p align="center">
+  <img src="screenshots/landing-mobile.png" width="220" alt="Landing page on mobile">
+  <img src="screenshots/dashboard-mobile.png" width="220" alt="Dashboard on mobile">
+</p>
+
 ## How to use it
 
 1. Open the site
-2. Load your listening data
-3. Customize your recap
-4. Watch it and share it
+2. Follow the guide to get your listening data
+3. Load it into the dashboard
+4. Customize your recap
+5. Watch it and share it
 
 ## Project status
 
