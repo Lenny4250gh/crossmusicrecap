@@ -5,10 +5,6 @@ Your music recap, from any platform.
 🔗 **Try it live:** https://crossmusicrecap.vercel.app/
 
 <p align="center">
-  <img src="screenshots/landing-hero.png" width="760" alt="CrossMusicRecap landing page">
-</p>
-
-<p align="center">
   <img src="screenshots/hero.png" width="200" alt="Top artist reveal with dynamic background">
   <img src="screenshots/top-platform.png" width="200" alt="Top platform reveal">
   <img src="screenshots/numbers.png" width="200" alt="Big count-up numbers slide">
