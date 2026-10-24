@@ -49,6 +49,7 @@ Your music recap, from any platform.
   <img src="screenshots/settings-hub.png" width="220" alt="Settings hub">
   <img src="screenshots/settings-content.png" width="220" alt="Content settings">
   <img src="screenshots/settings-format.png" width="220" alt="Format settings">
+  <img src="screenshots/settings-style.png" width="220" alt="Style settings">
 </p>
 
 ### On mobile
