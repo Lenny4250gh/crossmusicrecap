@@ -52,9 +52,8 @@ Your music recap, from any platform.
   <img src="screenshots/settings-content.png" width="200" alt="Content settings">
 </p>
 
-
+### On mobile
 <p align="center">
-  ### On mobile
   <img src="screenshots/landing-mobile.png" width="200" alt="Landing page on mobile">
   <img src="screenshots/dashboard-mobile.png" width="200" alt="Dashboard on mobile">
 </p>
