@@ -24,9 +24,11 @@ Your music recap, from any platform.
 
 ## Screenshots
 
-| Top 5 race | Dynamic backgrounds |
-|---|---|
-| ![](screenshots/race.png) | ![](screenshots/backgrounds.png) |
+<p align="center">
+  <img src="screenshots/settings-hub.png" width="220" alt="Settings hub">
+  <img src="screenshots/settings-content.png" width="220" alt="Content settings">
+  <img src="screenshots/settings-format.png" width="220" alt="Format settings">
+</p>
 
 ## How to use it
 
