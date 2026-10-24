@@ -2,7 +2,7 @@
 
 Your music recap, from any platform.
 
-🔗 **Try it live:** https://crossmusicrecap.vercel.app/
+🔗 **Try it live:** https://crossmusicrecap.vercel.app
 
 <p align="center">
   <img src="screenshots/hero.png" width="200" alt="Top artist reveal with dynamic background">
