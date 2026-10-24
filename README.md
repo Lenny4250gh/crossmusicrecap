@@ -4,7 +4,12 @@ Your music recap, from any platform.
 
 🔗 **Try it live:** https://crossmusicrecap.vercel.app/
 
-![Preview](screenshots/hero.png)
+<p align="center">
+  <img src="screenshots/hero.png" width="220" alt="Top artist reveal with dynamic background">
+  <img src="screenshots/top-platform.png" width="220" alt="Top platform reveal">
+  <img src="screenshots/numbers.png" width="220" alt="Big count-up numbers slide">
+  <img src="screenshots/race.png" width="220" alt="Monthly Top 5 race">
+</p>
 
 > **Note:** this repository is a showcase only. The source code is
 > proprietary and is not published here.
