@@ -46,16 +46,16 @@ Your music recap, from any platform.
 
 ### Customize your recap
 <p align="center">
-  <img src="screenshots/settings-hub.png" width="220" alt="Settings hub">
-  <img src="screenshots/settings-content.png" width="220" alt="Content settings">
-  <img src="screenshots/settings-format.png" width="220" alt="Format settings">
-  <img src="screenshots/settings-style.png" width="220" alt="Style settings">
+  <img src="screenshots/settings-hub.png" width="200" alt="Settings hub">
+  <img src="screenshots/settings-content.png" width="200" alt="Content settings">
+  <img src="screenshots/settings-format.png" width="200" alt="Format settings">
+  <img src="screenshots/settings-style.png" width="200" alt="Style settings">
 </p>
 
 ### On mobile
 <p align="center">
-  <img src="screenshots/landing-mobile.png" width="220" alt="Landing page on mobile">
-  <img src="screenshots/dashboard-mobile.png" width="220" alt="Dashboard on mobile">
+  <img src="screenshots/landing-mobile.png" width="200" alt="Landing page on mobile">
+  <img src="screenshots/dashboard-mobile.png" width="200" alt="Dashboard on mobile">
 </p>
 
 ## How to use it
